@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harishva
 - 👀 I’m interested in linux,k8s,cloud computing 
-- 🌱 I’m currently learning python programming
 - 📫 How to reach me vaharish@gmail.com
 
 <!---
